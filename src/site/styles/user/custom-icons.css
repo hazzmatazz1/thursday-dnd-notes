@@ -2,7 +2,8 @@ body.title-note-icon .cm-s-obsidian > header > h1[data-note-icon="deity"]::befor
 body.filetree-note-icon .filename[data-note-icon="deity"]::before,
 body.links-note-icon .internal-link[data-note-icon="deity"]::before,
 body.backlinks-note-icon .backlink[data-note-icon="deity"]::before {
-  background-color: red;
+  background-color: var(--text-normal);
   -webkit-mask-image: url(/img/deity.svg);
   mask-image: url(/img/deity.svg);
+  background-image: none
 }
