@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/world/pantheon/tala/","tags":["deity"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/world/pantheon/tala/","tags":["deity"],"noteIcon":"deity"}
 ---
 
 # Tala

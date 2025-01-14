@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/world/pantheon/nahmis/","tags":["deity"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/world/pantheon/nahmis/","tags":["deity"],"noteIcon":"deity"}
 ---
 
 # Nahmis

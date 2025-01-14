@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/world/pantheon/dhemis/","tags":["deity"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/world/pantheon/dhemis/","tags":["deity"],"noteIcon":"deity"}
 ---
 
 # Dhemis
