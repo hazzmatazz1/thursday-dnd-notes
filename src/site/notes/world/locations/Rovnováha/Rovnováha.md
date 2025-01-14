@@ -2,7 +2,8 @@
 {"dg-publish":true,"permalink":"/world/locations/rovnovaha/rovnovaha/","tags":["location"]}
 ---
 
-
+# Rovnováha
+A city where magic meets craftsmanship, with canals converging at a central onyx slate memorial, surrounded by dahlia flowers.
 # NPCs
 | Name                             | Species | Gender | Alive | Description                                                                                                                          |
 | -------------------------------- | ------- | ------ | ----- | ------------------------------------------------------------------------------------------------------------------------------------ |
