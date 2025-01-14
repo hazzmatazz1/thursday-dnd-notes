@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/world/pantheon/inas/","tags":["deity"]}
+{"dg-publish":true,"permalink":"/world/pantheon/inas/","tags":["deity"],"noteIcon":""}
 ---
 
 # Inas

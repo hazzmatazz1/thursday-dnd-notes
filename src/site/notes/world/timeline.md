@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/world/timeline/"}
+{"dg-publish":true,"permalink":"/world/timeline/","noteIcon":""}
 ---
 
 

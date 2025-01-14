@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/world/locations/vinetta/","tags":["location","old-world"]}
+{"dg-publish":true,"permalink":"/world/locations/vinetta/","tags":["location","old-world"],"noteIcon":""}
 ---
 
 # Vinetta

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/world/npcs/solmura/","tags":["person","npc"]}
+{"dg-publish":true,"permalink":"/world/npcs/solmura/","tags":["person","npc"],"noteIcon":""}
 ---
 
 # Solmura

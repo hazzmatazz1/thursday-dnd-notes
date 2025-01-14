@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/world/history/300-pc-the-beginning/","hideInGraph":true,"tags":["event","timeline"]}
+{"dg-publish":true,"permalink":"/world/history/300-pc-the-beginning/","hideInGraph":true,"tags":["event","timeline"],"noteIcon":""}
 ---
 
 # 300 PC - The Beginning
