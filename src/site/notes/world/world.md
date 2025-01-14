@@ -1,6 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/world/world/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/world/world/","pinned":true,"tags":["gardenEntry"]}
 ---
+
+# World Summary
 
 # Map
 ```leaflet
