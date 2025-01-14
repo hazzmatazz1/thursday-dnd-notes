@@ -3,17 +3,18 @@
     <title>Thursday D&amp;D Notes</title>
     <link href="https://dnd.harrymiller.uk/feed.xml" rel="self" >
     <link href="https://dnd.harrymiller.uk" >
-    <updated>2025-01-14T14:12:17Z</updated>
+    <updated>2025-01-14T14:13:10Z</updated>
     <id>https://dnd.harrymiller.uk</id>
         <entry>
             <title>
                 world
                 
             </title>
-            <updated>2025-01-14T14:12:08Z</updated>
+            <updated>2025-01-14T14:13:01Z</updated>
             <id>https://dnd.harrymiller.uk/</id>
             <content type="html">
-                &lt;h1 id=&quot;map&quot; tabindex=&quot;-1&quot;&gt;Map&lt;/h1&gt;
+                &lt;h1 id=&quot;world-summary&quot; tabindex=&quot;-1&quot;&gt;World Summary&lt;/h1&gt;
+&lt;h1 id=&quot;map&quot; tabindex=&quot;-1&quot;&gt;Map&lt;/h1&gt;
 &lt;pre&gt;&lt;code class=&quot;language-leaflet&quot;&gt;id: world-region
 image: [[World Map Big.jpeg]]
 &lt;/code&gt;&lt;/pre&gt;
@@ -82,7 +83,7 @@ image: [[World Map Big.jpeg]]
                 Trouble at Temple Ruins
                 
             </title>
-            <updated>2025-01-14T14:12:08Z</updated>
+            <updated>2025-01-14T14:13:01Z</updated>
             <id>https://dnd.harrymiller.uk/world/quests/trouble-at-temple-ruins/</id>
             <content type="html">
                 
@@ -94,7 +95,7 @@ image: [[World Map Big.jpeg]]
                 Legal Larceny
                 
             </title>
-            <updated>2025-01-14T14:12:08Z</updated>
+            <updated>2025-01-14T14:13:01Z</updated>
             <id>https://dnd.harrymiller.uk/world/quests/legal-larceny/</id>
             <content type="html">
                 
@@ -106,7 +107,7 @@ image: [[World Map Big.jpeg]]
                 Zuros
                 
             </title>
-            <updated>2025-01-14T14:12:08Z</updated>
+            <updated>2025-01-14T14:13:01Z</updated>
             <id>https://dnd.harrymiller.uk/world/pantheon/zuros/</id>
             <content type="html">
                 
@@ -118,7 +119,7 @@ image: [[World Map Big.jpeg]]
                 Uris
                 
             </title>
-            <updated>2025-01-14T14:12:08Z</updated>
+            <updated>2025-01-14T14:13:01Z</updated>
             <id>https://dnd.harrymiller.uk/world/pantheon/uris/</id>
             <content type="html">
                 
@@ -130,7 +131,7 @@ image: [[World Map Big.jpeg]]
                 Tala
                 
             </title>
-            <updated>2025-01-14T14:12:08Z</updated>
+            <updated>2025-01-14T14:13:01Z</updated>
             <id>https://dnd.harrymiller.uk/world/pantheon/tala/</id>
             <content type="html">
                 
@@ -142,7 +143,7 @@ image: [[World Map Big.jpeg]]
                 Strife
                 
             </title>
-            <updated>2025-01-14T14:12:08Z</updated>
+            <updated>2025-01-14T14:13:01Z</updated>
             <id>https://dnd.harrymiller.uk/world/pantheon/strife/</id>
             <content type="html">
                 
@@ -154,7 +155,7 @@ image: [[World Map Big.jpeg]]
                 Pandemonium
                 
             </title>
-            <updated>2025-01-14T14:12:08Z</updated>
+            <updated>2025-01-14T14:13:01Z</updated>
             <id>https://dnd.harrymiller.uk/world/pantheon/pandemonium/</id>
             <content type="html">
                 
@@ -166,7 +167,7 @@ image: [[World Map Big.jpeg]]
                 Ota
                 
             </title>
-            <updated>2025-01-14T14:12:08Z</updated>
+            <updated>2025-01-14T14:13:01Z</updated>
             <id>https://dnd.harrymiller.uk/world/pantheon/ota/</id>
             <content type="html">
                 
@@ -178,7 +179,7 @@ image: [[World Map Big.jpeg]]
                 Nahmis
                 
             </title>
-            <updated>2025-01-14T14:12:08Z</updated>
+            <updated>2025-01-14T14:13:01Z</updated>
             <id>https://dnd.harrymiller.uk/world/pantheon/nahmis/</id>
             <content type="html">
                 
@@ -190,7 +191,7 @@ image: [[World Map Big.jpeg]]
                 Inas
                 
             </title>
-            <updated>2025-01-14T14:12:08Z</updated>
+            <updated>2025-01-14T14:13:01Z</updated>
             <id>https://dnd.harrymiller.uk/world/pantheon/inas/</id>
             <content type="html">
                 
@@ -202,7 +203,7 @@ image: [[World Map Big.jpeg]]
                 Fate
                 
             </title>
-            <updated>2025-01-14T14:12:08Z</updated>
+            <updated>2025-01-14T14:13:01Z</updated>
             <id>https://dnd.harrymiller.uk/world/pantheon/fate/</id>
             <content type="html">
                 
@@ -214,7 +215,7 @@ image: [[World Map Big.jpeg]]
                 Dhemis
                 
             </title>
-            <updated>2025-01-14T14:12:08Z</updated>
+            <updated>2025-01-14T14:13:01Z</updated>
             <id>https://dnd.harrymiller.uk/world/pantheon/dhemis/</id>
             <content type="html">
                 
@@ -226,7 +227,7 @@ image: [[World Map Big.jpeg]]
                 Benara
                 
             </title>
-            <updated>2025-01-14T14:12:08Z</updated>
+            <updated>2025-01-14T14:13:01Z</updated>
             <id>https://dnd.harrymiller.uk/world/pantheon/benara/</id>
             <content type="html">
                 
@@ -238,7 +239,7 @@ image: [[World Map Big.jpeg]]
                 Balance
                 
             </title>
-            <updated>2025-01-14T14:12:08Z</updated>
+            <updated>2025-01-14T14:13:01Z</updated>
             <id>https://dnd.harrymiller.uk/world/pantheon/balance/</id>
             <content type="html">
                 
@@ -250,7 +251,7 @@ image: [[World Map Big.jpeg]]
                 Avarice
                 
             </title>
-            <updated>2025-01-14T14:12:08Z</updated>
+            <updated>2025-01-14T14:13:01Z</updated>
             <id>https://dnd.harrymiller.uk/world/pantheon/avarice/</id>
             <content type="html">
                 
@@ -262,7 +263,7 @@ image: [[World Map Big.jpeg]]
                 Atva
                 
             </title>
-            <updated>2025-01-14T14:12:08Z</updated>
+            <updated>2025-01-14T14:13:01Z</updated>
             <id>https://dnd.harrymiller.uk/world/pantheon/atva/</id>
             <content type="html">
                 
@@ -274,7 +275,7 @@ image: [[World Map Big.jpeg]]
                 Anvir
                 
             </title>
-            <updated>2025-01-14T14:12:08Z</updated>
+            <updated>2025-01-14T14:13:01Z</updated>
             <id>https://dnd.harrymiller.uk/world/pantheon/anvir/</id>
             <content type="html">
                 
@@ -286,7 +287,7 @@ image: [[World Map Big.jpeg]]
                 Theodore
                 
             </title>
-            <updated>2025-01-14T14:12:08Z</updated>
+            <updated>2025-01-14T14:13:01Z</updated>
             <id>https://dnd.harrymiller.uk/world/npcs/theodore/</id>
             <content type="html">
                 
@@ -298,7 +299,7 @@ image: [[World Map Big.jpeg]]
                 Solmura
                 
             </title>
-            <updated>2025-01-14T14:12:08Z</updated>
+            <updated>2025-01-14T14:13:01Z</updated>
             <id>https://dnd.harrymiller.uk/world/npcs/solmura/</id>
             <content type="html">
                 
@@ -310,7 +311,7 @@ image: [[World Map Big.jpeg]]
                 Sirico
                 
             </title>
-            <updated>2025-01-14T14:12:08Z</updated>
+            <updated>2025-01-14T14:13:01Z</updated>
             <id>https://dnd.harrymiller.uk/world/npcs/sirico/</id>
             <content type="html">
                 
@@ -322,7 +323,7 @@ image: [[World Map Big.jpeg]]
                 Hex
                 
             </title>
-            <updated>2025-01-14T14:12:08Z</updated>
+            <updated>2025-01-14T14:13:01Z</updated>
             <id>https://dnd.harrymiller.uk/world/npcs/hex/</id>
             <content type="html">
                 
@@ -334,7 +335,7 @@ image: [[World Map Big.jpeg]]
                 Elaine
                 
             </title>
-            <updated>2025-01-14T14:12:08Z</updated>
+            <updated>2025-01-14T14:13:01Z</updated>
             <id>https://dnd.harrymiller.uk/world/npcs/elaine/</id>
             <content type="html">
                 
@@ -346,7 +347,7 @@ image: [[World Map Big.jpeg]]
                 Dez
                 
             </title>
-            <updated>2025-01-14T14:12:08Z</updated>
+            <updated>2025-01-14T14:13:01Z</updated>
             <id>https://dnd.harrymiller.uk/world/npcs/dez/</id>
             <content type="html">
                 
@@ -358,7 +359,7 @@ image: [[World Map Big.jpeg]]
                 Constance
                 
             </title>
-            <updated>2025-01-14T14:12:08Z</updated>
+            <updated>2025-01-14T14:13:01Z</updated>
             <id>https://dnd.harrymiller.uk/world/npcs/constance/</id>
             <content type="html">
                 
@@ -370,7 +371,7 @@ image: [[World Map Big.jpeg]]
                 Cal
                 
             </title>
-            <updated>2025-01-14T14:12:08Z</updated>
+            <updated>2025-01-14T14:13:01Z</updated>
             <id>https://dnd.harrymiller.uk/world/npcs/cal/</id>
             <content type="html">
                 
@@ -382,7 +383,7 @@ image: [[World Map Big.jpeg]]
                 Vinetta
                 
             </title>
-            <updated>2025-01-14T14:12:08Z</updated>
+            <updated>2025-01-14T14:13:01Z</updated>
             <id>https://dnd.harrymiller.uk/world/locations/vinetta/</id>
             <content type="html">
                 &lt;p&gt;Once a thriving city, now reduced to ashes and boiling lakes, a haunting memory of a land ravaged by the wrath of the Gods.&lt;/p&gt;
@@ -395,7 +396,7 @@ image: [[World Map Big.jpeg]]
                 The Citadel
                 
             </title>
-            <updated>2025-01-14T14:12:08Z</updated>
+            <updated>2025-01-14T14:13:01Z</updated>
             <id>https://dnd.harrymiller.uk/world/locations/rovnovaha/the-citadel/</id>
             <content type="html">
                 &lt;p&gt;A towering structure, hundreds of feet high, providing a panoramic view of Rovnováha and its surroundings.&lt;/p&gt;
@@ -408,7 +409,7 @@ image: [[World Map Big.jpeg]]
                 Rovnováha
                 
             </title>
-            <updated>2025-01-14T14:12:08Z</updated>
+            <updated>2025-01-14T14:13:01Z</updated>
             <id>https://dnd.harrymiller.uk/world/locations/rovnovaha/rovnovaha/</id>
             <content type="html">
                 &lt;h1 id=&quot;np-cs&quot; tabindex=&quot;-1&quot;&gt;NPCs&lt;/h1&gt;
@@ -472,7 +473,7 @@ image: [[World Map Big.jpeg]]
                 Elysia Vale
                 
             </title>
-            <updated>2025-01-14T14:12:07Z</updated>
+            <updated>2025-01-14T14:13:01Z</updated>
             <id>https://dnd.harrymiller.uk/world/locations/elysia-vale/elysia-vale/</id>
             <content type="html">
                 &lt;h1 id=&quot;overview&quot; tabindex=&quot;-1&quot;&gt;Overview&lt;/h1&gt;
@@ -546,7 +547,7 @@ image: [[World Map Big.jpeg]]
                 300 PC - The Beginning
                 
             </title>
-            <updated>2025-01-14T14:12:07Z</updated>
+            <updated>2025-01-14T14:13:01Z</updated>
             <id>https://dnd.harrymiller.uk/world/history/300-pc-the-beginning/</id>
             <content type="html">
                 &lt;h1 id=&quot;300-pc-the-beginning&quot; tabindex=&quot;-1&quot;&gt;300 PC - The Beginning&lt;/h1&gt;
@@ -601,7 +602,7 @@ Pleased with his work, he returned to the bar, each hour creeping slowly as he a
                 010 PC - 290 years ago
                 
             </title>
-            <updated>2025-01-14T14:12:07Z</updated>
+            <updated>2025-01-14T14:13:01Z</updated>
             <id>https://dnd.harrymiller.uk/world/history/010-pc-290-years-ago/</id>
             <content type="html">
                 &lt;h1 id=&quot;010-pc-290-years-ago&quot; tabindex=&quot;-1&quot;&gt;010 PC - 290 years ago&lt;/h1&gt;
@@ -615,7 +616,7 @@ Pleased with his work, he returned to the bar, each hour creeping slowly as he a
                 0 - The Collapse
                 
             </title>
-            <updated>2025-01-14T14:12:07Z</updated>
+            <updated>2025-01-14T14:13:01Z</updated>
             <id>https://dnd.harrymiller.uk/world/history/0-the-collapse/</id>
             <content type="html">
                 &lt;h1 id=&quot;0-the-collapse&quot; tabindex=&quot;-1&quot;&gt;0 - The Collapse&lt;/h1&gt;
@@ -629,7 +630,7 @@ Pleased with his work, he returned to the bar, each hour creeping slowly as he a
                 Eeshan
                 
             </title>
-            <updated>2025-01-14T14:12:07Z</updated>
+            <updated>2025-01-14T14:13:01Z</updated>
             <id>https://dnd.harrymiller.uk/world/cultures/eeshan/</id>
             <content type="html">
                 &lt;p&gt;An advanced, ancient civilization known for their remarkable technological prowess, characterized by their intricate artifacts scattered across the continent, and their enigmatic, sophisticated way of life that has long intrigued modern scholars.&lt;/p&gt;
