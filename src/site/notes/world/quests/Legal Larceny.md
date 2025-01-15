@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/world/quests/legal-larceny/","tags":["quest"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/world/quests/legal-larceny/","tags":["quest"],"noteIcon":"quest"}
 ---
 
 # Legal Larceny

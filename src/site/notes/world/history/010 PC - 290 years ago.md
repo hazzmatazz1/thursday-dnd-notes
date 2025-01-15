@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/world/history/010-pc-290-years-ago/","hideInGraph":true,"tags":["event","timeline"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/world/history/010-pc-290-years-ago/","hideInGraph":true,"tags":["event","timeline"],"noteIcon":"quill"}
 ---
 
 # 010 PC - 290 years ago

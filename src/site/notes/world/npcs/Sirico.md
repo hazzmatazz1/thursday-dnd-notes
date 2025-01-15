@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/world/npcs/sirico/","tags":["person","npc"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/world/npcs/sirico/","tags":["person","npc"],"noteIcon":"npc"}
 ---
 
 # Sirico

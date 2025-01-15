@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/world/world/","pinned":true,"tags":["gardenEntry"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/world/world/","pinned":true,"tags":["gardenEntry"],"noteIcon":"world"}
 ---
 
 # World Summary
