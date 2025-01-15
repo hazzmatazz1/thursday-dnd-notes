@@ -42,10 +42,90 @@ body.backlinks-note-icon .backlink[data-note-icon="3"]::before {
     mask-image: var(--note-icon-3);
 }
 
+body.title-note-icon .cm-s-obsidian > header > h1[data-note-icon="character"]::before,
+body.filetree-note-icon .filename[data-note-icon="character"]::before,
+body.links-note-icon .internal-link[data-note-icon="character"]::before,
+body.backlinks-note-icon .backlink[data-note-icon="character"]::before {
+    -webkit-mask-image: url(/img/character.svg);
+    mask-image: url(/img/character.svg);
+}
+
+body.title-note-icon .cm-s-obsidian > header > h1[data-note-icon="city"]::before,
+body.filetree-note-icon .filename[data-note-icon="city"]::before,
+body.links-note-icon .internal-link[data-note-icon="city"]::before,
+body.backlinks-note-icon .backlink[data-note-icon="city"]::before {
+    -webkit-mask-image: url(/img/city.svg);
+    mask-image: url(/img/city.svg);
+}
+
 body.title-note-icon .cm-s-obsidian > header > h1[data-note-icon="deity"]::before,
 body.filetree-note-icon .filename[data-note-icon="deity"]::before,
 body.links-note-icon .internal-link[data-note-icon="deity"]::before,
 body.backlinks-note-icon .backlink[data-note-icon="deity"]::before {
     -webkit-mask-image: url(/img/deity.svg);
     mask-image: url(/img/deity.svg);
+}
+
+body.title-note-icon .cm-s-obsidian > header > h1[data-note-icon="file"]::before,
+body.filetree-note-icon .filename[data-note-icon="file"]::before,
+body.links-note-icon .internal-link[data-note-icon="file"]::before,
+body.backlinks-note-icon .backlink[data-note-icon="file"]::before {
+    -webkit-mask-image: url(/img/file.svg);
+    mask-image: url(/img/file.svg);
+}
+
+body.title-note-icon .cm-s-obsidian > header > h1[data-note-icon="location"]::before,
+body.filetree-note-icon .filename[data-note-icon="location"]::before,
+body.links-note-icon .internal-link[data-note-icon="location"]::before,
+body.backlinks-note-icon .backlink[data-note-icon="location"]::before {
+    -webkit-mask-image: url(/img/location.svg);
+    mask-image: url(/img/location.svg);
+}
+
+body.title-note-icon .cm-s-obsidian > header > h1[data-note-icon="npc"]::before,
+body.filetree-note-icon .filename[data-note-icon="npc"]::before,
+body.links-note-icon .internal-link[data-note-icon="npc"]::before,
+body.backlinks-note-icon .backlink[data-note-icon="npc"]::before {
+    -webkit-mask-image: url(/img/npc.svg);
+    mask-image: url(/img/npc.svg);
+}
+
+body.title-note-icon .cm-s-obsidian > header > h1[data-note-icon="quest"]::before,
+body.filetree-note-icon .filename[data-note-icon="quest"]::before,
+body.links-note-icon .internal-link[data-note-icon="quest"]::before,
+body.backlinks-note-icon .backlink[data-note-icon="quest"]::before {
+    -webkit-mask-image: url(/img/quest.svg);
+    mask-image: url(/img/quest.svg);
+}
+
+body.title-note-icon .cm-s-obsidian > header > h1[data-note-icon="quill"]::before,
+body.filetree-note-icon .filename[data-note-icon="quill"]::before,
+body.links-note-icon .internal-link[data-note-icon="quill"]::before,
+body.backlinks-note-icon .backlink[data-note-icon="quill"]::before {
+    -webkit-mask-image: url(/img/quill.svg);
+    mask-image: url(/img/quill.svg);
+}
+
+body.title-note-icon .cm-s-obsidian > header > h1[data-note-icon="small-castle"]::before,
+body.filetree-note-icon .filename[data-note-icon="small-castle"]::before,
+body.links-note-icon .internal-link[data-note-icon="small-castle"]::before,
+body.backlinks-note-icon .backlink[data-note-icon="small-castle"]::before {
+    -webkit-mask-image: url(/img/small-castle.svg);
+    mask-image: url(/img/small-castle.svg);
+}
+
+body.title-note-icon .cm-s-obsidian > header > h1[data-note-icon="town"]::before,
+body.filetree-note-icon .filename[data-note-icon="town"]::before,
+body.links-note-icon .internal-link[data-note-icon="town"]::before,
+body.backlinks-note-icon .backlink[data-note-icon="town"]::before {
+    -webkit-mask-image: url(/img/town.svg);
+    mask-image: url(/img/town.svg);
+}
+
+body.title-note-icon .cm-s-obsidian > header > h1[data-note-icon="world"]::before,
+body.filetree-note-icon .filename[data-note-icon="world"]::before,
+body.links-note-icon .internal-link[data-note-icon="world"]::before,
+body.backlinks-note-icon .backlink[data-note-icon="world"]::before {
+    -webkit-mask-image: url(/img/world.svg);
+    mask-image: url(/img/world.svg);
 }
