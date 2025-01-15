@@ -12,6 +12,7 @@ body.backlinks-note-icon .backlink[data-note-icon]::before {
     background-color: var(--text-normal);
     -webkit-mask-image: url(/img/file.svg);
     mask-image: url(/img/file.svg);
+    mask-repeat: no-repeat;
     background-image: none;
     margin-right: 0.3em;
 }
