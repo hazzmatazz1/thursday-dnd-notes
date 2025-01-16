@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/world/npcs/hex/","tags":["person","npc"],"noteIcon":"npc"}
+{"dg-publish":true,"dg-path":"npcs/Hex.md","permalink":"/npcs/hex/","tags":["person","npc"],"noteIcon":"npc"}
 ---
 
 # Hex

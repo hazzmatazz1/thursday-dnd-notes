@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/world/locations/rovnovaha/rovnovaha/","tags":["location"],"noteIcon":"city"}
+{"dg-publish":true,"dg-path":"locations/Rovnováha/Rovnováha.md","permalink":"/locations/rovnovaha/rovnovaha/","tags":["location"],"noteIcon":"city"}
 ---
 
 # Rovnováha

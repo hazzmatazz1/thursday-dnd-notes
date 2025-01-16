@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/world/pantheon/atva/","tags":["deity"],"noteIcon":"deity"}
+{"dg-publish":true,"dg-path":"pantheon/Atva.md","permalink":"/pantheon/atva/","tags":["deity"],"noteIcon":"deity"}
 ---
 
 # Atva

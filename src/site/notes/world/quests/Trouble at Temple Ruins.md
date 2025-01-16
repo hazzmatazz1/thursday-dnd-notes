@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/world/quests/trouble-at-temple-ruins/","tags":["quest"],"noteIcon":"quest"}
+{"dg-publish":true,"dg-path":"quests/Trouble at Temple Ruins.md","permalink":"/quests/trouble-at-temple-ruins/","tags":["quest"],"noteIcon":"quest"}
 ---
 
 # Trouble at Temple Ruins

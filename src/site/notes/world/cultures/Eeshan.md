@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/world/cultures/eeshan/","tags":["culture"],"noteIcon":""}
+{"dg-publish":true,"dg-path":"cultures/Eeshan.md","permalink":"/cultures/eeshan/","tags":["culture"],"noteIcon":""}
 ---
 
 # Eeshan

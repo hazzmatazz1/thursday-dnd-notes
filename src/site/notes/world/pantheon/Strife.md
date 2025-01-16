@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/world/pantheon/strife/","tags":["deity","old-world"],"noteIcon":"deity"}
+{"dg-publish":true,"dg-path":"pantheon/Strife.md","permalink":"/pantheon/strife/","tags":["deity","old-world"],"noteIcon":"deity"}
 ---
 
 # Strife

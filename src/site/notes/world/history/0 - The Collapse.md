@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/world/history/0-the-collapse/","hideInGraph":true,"tags":["event","timeline"],"noteIcon":"quill"}
+{"dg-publish":true,"dg-path":"history/0 - The Collapse.md","permalink":"/history/0-the-collapse/","hideInGraph":true,"tags":["event","timeline"],"noteIcon":"quill"}
 ---
 
 # 0 - The Collapse

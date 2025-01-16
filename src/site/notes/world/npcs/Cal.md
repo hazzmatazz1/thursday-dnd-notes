@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/world/npcs/cal/","tags":["person","npc"],"noteIcon":"npc"}
+{"dg-publish":true,"dg-path":"npcs/Cal.md","permalink":"/npcs/cal/","tags":["person","npc"],"noteIcon":"npc"}
 ---
 
 # Cal

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/world/locations/rovnovaha/the-citadel/","tags":["location"],"noteIcon":"small-castle"}
+{"dg-publish":true,"dg-path":"locations/Rovnováha/The Citadel.md","permalink":"/locations/rovnovaha/the-citadel/","tags":["location"],"noteIcon":"small-castle"}
 ---
 
 # The Citadel

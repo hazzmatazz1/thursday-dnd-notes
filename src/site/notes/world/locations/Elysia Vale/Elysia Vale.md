@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/world/locations/elysia-vale/elysia-vale/","tags":["location"],"noteIcon":"town"}
+{"dg-publish":true,"dg-path":"locations/Elysia Vale/Elysia Vale.md","permalink":"/locations/elysia-vale/elysia-vale/","tags":["location"],"noteIcon":"town"}
 ---
 
 # Elysia Vale

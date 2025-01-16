@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/world/npcs/constance/","tags":["person","npc"],"noteIcon":"npc"}
+{"dg-publish":true,"dg-path":"npcs/Constance.md","permalink":"/npcs/constance/","tags":["person","npc"],"noteIcon":"npc"}
 ---
 
 # Constance

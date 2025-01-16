@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/world/npcs/theodore/","tags":["person","npc"],"noteIcon":"npc"}
+{"dg-publish":true,"dg-path":"npcs/Theodore.md","permalink":"/npcs/theodore/","tags":["person","npc"],"noteIcon":"npc"}
 ---
 
 # Theodore

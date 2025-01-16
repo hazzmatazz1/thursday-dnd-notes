@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/world/pantheon/zuros/","tags":["deity"],"noteIcon":"deity"}
+{"dg-publish":true,"dg-path":"pantheon/Zuros.md","permalink":"/pantheon/zuros/","tags":["deity"],"noteIcon":"deity"}
 ---
 
 # Zuros

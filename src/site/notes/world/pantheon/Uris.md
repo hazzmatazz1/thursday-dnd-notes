@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/world/pantheon/uris/","tags":["deity"],"noteIcon":"deity"}
+{"dg-publish":true,"dg-path":"pantheon/Uris.md","permalink":"/pantheon/uris/","tags":["deity"],"noteIcon":"deity"}
 ---
 
 # Uris

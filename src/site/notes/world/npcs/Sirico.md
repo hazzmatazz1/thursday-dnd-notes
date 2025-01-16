@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/world/npcs/sirico/","tags":["person","npc"],"noteIcon":"npc"}
+{"dg-publish":true,"dg-path":"npcs/Sirico.md","permalink":"/npcs/sirico/","tags":["person","npc"],"noteIcon":"npc"}
 ---
 
 # Sirico

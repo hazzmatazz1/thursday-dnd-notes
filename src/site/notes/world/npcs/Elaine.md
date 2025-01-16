@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/world/npcs/elaine/","tags":["person","npc"],"noteIcon":"npc"}
+{"dg-publish":true,"dg-path":"npcs/Elaine.md","permalink":"/npcs/elaine/","tags":["person","npc"],"noteIcon":"npc"}
 ---
 
 # Elaine

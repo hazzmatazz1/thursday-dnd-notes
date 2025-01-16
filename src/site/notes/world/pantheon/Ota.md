@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/world/pantheon/ota/","tags":["deity"],"noteIcon":"deity"}
+{"dg-publish":true,"dg-path":"pantheon/Ota.md","permalink":"/pantheon/ota/","tags":["deity"],"noteIcon":"deity"}
 ---
 
 # Ota

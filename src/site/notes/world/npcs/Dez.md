@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/world/npcs/dez/","tags":["person","npc"],"noteIcon":"npc"}
+{"dg-publish":true,"dg-path":"npcs/Dez.md","permalink":"/npcs/dez/","tags":["person","npc"],"noteIcon":"npc"}
 ---
 
 # Dez

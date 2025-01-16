@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/world/pantheon/anvir/","tags":["deity"],"noteIcon":"deity"}
+{"dg-publish":true,"dg-path":"pantheon/Anvir.md","permalink":"/pantheon/anvir/","tags":["deity"],"noteIcon":"deity"}
 ---
 
 # Anvir
