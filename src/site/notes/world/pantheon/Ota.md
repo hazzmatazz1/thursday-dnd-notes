@@ -3,4 +3,4 @@
 ---
 
 # Ota
-God of the Earth
+Goddess of Earth: Guardian of the land, Ota represents stability, growth, and the physical foundation of the world, from mountains to fertile soil.

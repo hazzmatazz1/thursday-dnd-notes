@@ -3,4 +3,4 @@
 ---
 
 # Anvir
-God of the Sun
+God of the Sun: A radiant deity, Anvir represents light, warmth, and the passage of time, bringing day to the world and energizing all life.

@@ -3,4 +3,4 @@
 ---
 
 # Tala
-God of the Air,Thunder
+God of Air and Thunder: A tempestuous force, Tala commands the skies with the winds and storms, embodying both the clarity of air and the power of thunder.
