@@ -3,14 +3,14 @@
     <title>Thursday D&amp;D Notes</title>
     <link href="https://dnd.harrymiller.uk/feed.xml" rel="self" >
     <link href="https://dnd.harrymiller.uk" >
-    <updated>2025-01-24T17:49:39Z</updated>
+    <updated>2025-01-24T17:49:43Z</updated>
     <id>https://dnd.harrymiller.uk</id>
         <entry>
             <title>
                 Story
                 
             </title>
-            <updated>2025-01-24T17:49:30Z</updated>
+            <updated>2025-01-24T17:49:28Z</updated>
             <id>https://dnd.harrymiller.uk/z-templates/story/</id>
             <content type="html">
                 
@@ -22,7 +22,7 @@
                 Shop
                 
             </title>
-            <updated>2025-01-24T17:49:30Z</updated>
+            <updated>2025-01-24T17:49:28Z</updated>
             <id>https://dnd.harrymiller.uk/z-templates/shop/</id>
             <content type="html">
                 
@@ -34,7 +34,7 @@
                 Session
                 
             </title>
-            <updated>2025-01-24T17:49:30Z</updated>
+            <updated>2025-01-24T17:49:28Z</updated>
             <id>https://dnd.harrymiller.uk/z-templates/session/</id>
             <content type="html">
                 &lt;h1 id=&quot;recap&quot; tabindex=&quot;-1&quot;&gt;Recap&lt;/h1&gt;
@@ -54,7 +54,7 @@
                 Quest
                 
             </title>
-            <updated>2025-01-24T17:49:30Z</updated>
+            <updated>2025-01-24T17:49:28Z</updated>
             <id>https://dnd.harrymiller.uk/z-templates/quest/</id>
             <content type="html">
                 
@@ -66,7 +66,7 @@
                 PC
                 
             </title>
-            <updated>2025-01-24T17:49:30Z</updated>
+            <updated>2025-01-24T17:49:28Z</updated>
             <id>https://dnd.harrymiller.uk/z-templates/pc/</id>
             <content type="html">
                 
@@ -78,7 +78,7 @@
                 Other
                 
             </title>
-            <updated>2025-01-24T17:49:30Z</updated>
+            <updated>2025-01-24T17:49:28Z</updated>
             <id>https://dnd.harrymiller.uk/z-templates/other/</id>
             <content type="html">
                 
@@ -90,7 +90,7 @@
                 NPC
                 
             </title>
-            <updated>2025-01-24T17:49:30Z</updated>
+            <updated>2025-01-24T17:49:28Z</updated>
             <id>https://dnd.harrymiller.uk/z-templates/npc/</id>
             <content type="html">
                 
@@ -102,7 +102,7 @@
                 Location
                 
             </title>
-            <updated>2025-01-24T17:49:30Z</updated>
+            <updated>2025-01-24T17:49:28Z</updated>
             <id>https://dnd.harrymiller.uk/z-templates/location/</id>
             <content type="html">
                 &lt;h1 id=&quot;overview&quot; tabindex=&quot;-1&quot;&gt;Overview&lt;/h1&gt;
@@ -137,7 +137,7 @@
                 Faction
                 
             </title>
-            <updated>2025-01-24T17:49:30Z</updated>
+            <updated>2025-01-24T17:49:28Z</updated>
             <id>https://dnd.harrymiller.uk/z-templates/faction/</id>
             <content type="html">
                 
@@ -146,10 +146,36 @@
         </entry>
         <entry>
             <title>
+                Event
+                
+            </title>
+            <updated>2025-01-24T17:49:28Z</updated>
+            <id>https://dnd.harrymiller.uk/z-templates/event/</id>
+            <content type="html">
+                &lt;h1 id=&quot;event&quot; tabindex=&quot;-1&quot;&gt;Event&lt;/h1&gt;
+&lt;p&gt;&lt;/p&gt;
+
+            </content>
+            <link href="https://dnd.harrymiller.uk/z-templates/event/" >
+        </entry>
+        <entry>
+            <title>
+                Deity
+                
+            </title>
+            <updated>2025-01-24T17:49:28Z</updated>
+            <id>https://dnd.harrymiller.uk/z-templates/deity/</id>
+            <content type="html">
+                
+            </content>
+            <link href="https://dnd.harrymiller.uk/z-templates/deity/" >
+        </entry>
+        <entry>
+            <title>
                 world
                 
             </title>
-            <updated>2025-01-24T17:49:30Z</updated>
+            <updated>2025-01-24T17:49:28Z</updated>
             <id>https://dnd.harrymiller.uk/</id>
             <content type="html">
                 &lt;h1 id=&quot;world-summary&quot; tabindex=&quot;-1&quot;&gt;World Summary&lt;/h1&gt;
@@ -242,7 +268,7 @@ image: [[World Map.jpg]]
                 The Falling Man
                 
             </title>
-            <updated>2025-01-24T17:49:30Z</updated>
+            <updated>2025-01-24T17:49:28Z</updated>
             <id>https://dnd.harrymiller.uk/stories/the-falling-man/</id>
             <content type="html">
                 &lt;p&gt;He was here, but he was not from here.&lt;/p&gt;
@@ -285,7 +311,7 @@ image: [[World Map.jpg]]
                 Letter to Osbyn
                 
             </title>
-            <updated>2025-01-24T17:49:30Z</updated>
+            <updated>2025-01-24T17:49:28Z</updated>
             <id>https://dnd.harrymiller.uk/stories/letter-to-osbyn/</id>
             <content type="html">
                 &lt;p&gt;&lt;a class=&quot;internal-link&quot; target=&quot;&quot; data-note-icon=&quot;character&quot; href=&quot;https://dnd.harrymiller.uk/characters/osbyn/&quot;&gt;Osbyn&lt;/a&gt;,&lt;br /&gt;
@@ -302,7 +328,7 @@ They speak so passionately of technology and of harnessing ancient power unknown
                 Trouble at Temple Ruins
                 
             </title>
-            <updated>2025-01-24T17:49:30Z</updated>
+            <updated>2025-01-24T17:49:28Z</updated>
             <id>https://dnd.harrymiller.uk/quests/trouble-at-temple-ruins/</id>
             <content type="html">
                 &lt;h1 id=&quot;trouble-at-temple-ruins&quot; tabindex=&quot;-1&quot;&gt;Trouble at Temple Ruins&lt;/h1&gt;
@@ -316,7 +342,7 @@ They speak so passionately of technology and of harnessing ancient power unknown
                 Legal Larceny
                 
             </title>
-            <updated>2025-01-24T17:49:30Z</updated>
+            <updated>2025-01-24T17:49:28Z</updated>
             <id>https://dnd.harrymiller.uk/quests/legal-larceny/</id>
             <content type="html">
                 &lt;h1 id=&quot;legal-larceny&quot; tabindex=&quot;-1&quot;&gt;Legal Larceny&lt;/h1&gt;
@@ -330,7 +356,7 @@ They speak so passionately of technology and of harnessing ancient power unknown
                 Zuros
                 
             </title>
-            <updated>2025-01-24T17:49:30Z</updated>
+            <updated>2025-01-24T17:49:28Z</updated>
             <id>https://dnd.harrymiller.uk/pantheon/zuros/</id>
             <content type="html">
                 &lt;h1 id=&quot;zuros&quot; tabindex=&quot;-1&quot;&gt;Zuros&lt;/h1&gt;
@@ -344,7 +370,7 @@ They speak so passionately of technology and of harnessing ancient power unknown
                 Uris
                 
             </title>
-            <updated>2025-01-24T17:49:30Z</updated>
+            <updated>2025-01-24T17:49:28Z</updated>
             <id>https://dnd.harrymiller.uk/pantheon/uris/</id>
             <content type="html">
                 &lt;h1 id=&quot;uris&quot; tabindex=&quot;-1&quot;&gt;Uris&lt;/h1&gt;
@@ -358,7 +384,7 @@ They speak so passionately of technology and of harnessing ancient power unknown
                 Tala
                 
             </title>
-            <updated>2025-01-24T17:49:30Z</updated>
+            <updated>2025-01-24T17:49:28Z</updated>
             <id>https://dnd.harrymiller.uk/pantheon/tala/</id>
             <content type="html">
                 &lt;h1 id=&quot;tala&quot; tabindex=&quot;-1&quot;&gt;Tala&lt;/h1&gt;
@@ -372,7 +398,7 @@ They speak so passionately of technology and of harnessing ancient power unknown
                 Strife
                 
             </title>
-            <updated>2025-01-24T17:49:30Z</updated>
+            <updated>2025-01-24T17:49:28Z</updated>
             <id>https://dnd.harrymiller.uk/pantheon/strife/</id>
             <content type="html">
                 &lt;h1 id=&quot;strife&quot; tabindex=&quot;-1&quot;&gt;Strife&lt;/h1&gt;
@@ -386,7 +412,7 @@ They speak so passionately of technology and of harnessing ancient power unknown
                 Pandemonium
                 
             </title>
-            <updated>2025-01-24T17:49:30Z</updated>
+            <updated>2025-01-24T17:49:28Z</updated>
             <id>https://dnd.harrymiller.uk/pantheon/pandemonium/</id>
             <content type="html">
                 &lt;p&gt;A God of the old world&lt;/p&gt;
@@ -399,7 +425,7 @@ They speak so passionately of technology and of harnessing ancient power unknown
                 Ota
                 
             </title>
-            <updated>2025-01-24T17:49:30Z</updated>
+            <updated>2025-01-24T17:49:28Z</updated>
             <id>https://dnd.harrymiller.uk/pantheon/ota/</id>
             <content type="html">
                 &lt;h1 id=&quot;ota&quot; tabindex=&quot;-1&quot;&gt;Ota&lt;/h1&gt;
@@ -413,7 +439,7 @@ They speak so passionately of technology and of harnessing ancient power unknown
                 Nahmis
                 
             </title>
-            <updated>2025-01-24T17:49:30Z</updated>
+            <updated>2025-01-24T17:49:28Z</updated>
             <id>https://dnd.harrymiller.uk/pantheon/nahmis/</id>
             <content type="html">
                 &lt;h1 id=&quot;nahmis&quot; tabindex=&quot;-1&quot;&gt;Nahmis&lt;/h1&gt;
@@ -427,7 +453,7 @@ They speak so passionately of technology and of harnessing ancient power unknown
                 Inas
                 
             </title>
-            <updated>2025-01-24T17:49:30Z</updated>
+            <updated>2025-01-24T17:49:28Z</updated>
             <id>https://dnd.harrymiller.uk/pantheon/inas/</id>
             <content type="html">
                 &lt;h1 id=&quot;inas&quot; tabindex=&quot;-1&quot;&gt;Inas&lt;/h1&gt;
@@ -441,7 +467,7 @@ They speak so passionately of technology and of harnessing ancient power unknown
                 Fate
                 
             </title>
-            <updated>2025-01-24T17:49:30Z</updated>
+            <updated>2025-01-24T17:49:28Z</updated>
             <id>https://dnd.harrymiller.uk/pantheon/fate/</id>
             <content type="html">
                 &lt;p&gt;A God of the old world&lt;/p&gt;
@@ -454,7 +480,7 @@ They speak so passionately of technology and of harnessing ancient power unknown
                 Dhemis
                 
             </title>
-            <updated>2025-01-24T17:49:30Z</updated>
+            <updated>2025-01-24T17:49:28Z</updated>
             <id>https://dnd.harrymiller.uk/pantheon/dhemis/</id>
             <content type="html">
                 &lt;h1 id=&quot;dhemis&quot; tabindex=&quot;-1&quot;&gt;Dhemis&lt;/h1&gt;
@@ -468,7 +494,7 @@ They speak so passionately of technology and of harnessing ancient power unknown
                 Benara
                 
             </title>
-            <updated>2025-01-24T17:49:30Z</updated>
+            <updated>2025-01-24T17:49:28Z</updated>
             <id>https://dnd.harrymiller.uk/pantheon/benara/</id>
             <content type="html">
                 &lt;h1 id=&quot;benara&quot; tabindex=&quot;-1&quot;&gt;Benara&lt;/h1&gt;
@@ -482,7 +508,7 @@ They speak so passionately of technology and of harnessing ancient power unknown
                 Balance
                 
             </title>
-            <updated>2025-01-24T17:49:30Z</updated>
+            <updated>2025-01-24T17:49:28Z</updated>
             <id>https://dnd.harrymiller.uk/pantheon/balance/</id>
             <content type="html">
                 &lt;p&gt;A god of the old world&lt;/p&gt;
@@ -495,7 +521,7 @@ They speak so passionately of technology and of harnessing ancient power unknown
                 Avarice
                 
             </title>
-            <updated>2025-01-24T17:49:30Z</updated>
+            <updated>2025-01-24T17:49:28Z</updated>
             <id>https://dnd.harrymiller.uk/pantheon/avarice/</id>
             <content type="html">
                 &lt;p&gt;A god of the old world.&lt;/p&gt;
@@ -508,7 +534,7 @@ They speak so passionately of technology and of harnessing ancient power unknown
                 Atva
                 
             </title>
-            <updated>2025-01-24T17:49:30Z</updated>
+            <updated>2025-01-24T17:49:28Z</updated>
             <id>https://dnd.harrymiller.uk/pantheon/atva/</id>
             <content type="html">
                 &lt;h1 id=&quot;atva&quot; tabindex=&quot;-1&quot;&gt;Atva&lt;/h1&gt;
@@ -522,7 +548,7 @@ They speak so passionately of technology and of harnessing ancient power unknown
                 Anvir
                 
             </title>
-            <updated>2025-01-24T17:49:30Z</updated>
+            <updated>2025-01-24T17:49:28Z</updated>
             <id>https://dnd.harrymiller.uk/pantheon/anvir/</id>
             <content type="html">
                 &lt;h1 id=&quot;anvir&quot; tabindex=&quot;-1&quot;&gt;Anvir&lt;/h1&gt;
@@ -536,7 +562,7 @@ They speak so passionately of technology and of harnessing ancient power unknown
                 Theodore
                 
             </title>
-            <updated>2025-01-24T17:49:30Z</updated>
+            <updated>2025-01-24T17:49:28Z</updated>
             <id>https://dnd.harrymiller.uk/npcs/theodore/</id>
             <content type="html">
                 &lt;h1 id=&quot;theodore&quot; tabindex=&quot;-1&quot;&gt;Theodore&lt;/h1&gt;
@@ -550,7 +576,7 @@ They speak so passionately of technology and of harnessing ancient power unknown
                 Solmura
                 
             </title>
-            <updated>2025-01-24T17:49:30Z</updated>
+            <updated>2025-01-24T17:49:28Z</updated>
             <id>https://dnd.harrymiller.uk/npcs/solmura/</id>
             <content type="html">
                 &lt;h1 id=&quot;solmura&quot; tabindex=&quot;-1&quot;&gt;Solmura&lt;/h1&gt;
@@ -564,7 +590,7 @@ They speak so passionately of technology and of harnessing ancient power unknown
                 Sirico
                 
             </title>
-            <updated>2025-01-24T17:49:30Z</updated>
+            <updated>2025-01-24T17:49:28Z</updated>
             <id>https://dnd.harrymiller.uk/npcs/sirico/</id>
             <content type="html">
                 &lt;h1 id=&quot;sirico&quot; tabindex=&quot;-1&quot;&gt;Sirico&lt;/h1&gt;
@@ -578,7 +604,7 @@ They speak so passionately of technology and of harnessing ancient power unknown
                 Hex
                 
             </title>
-            <updated>2025-01-24T17:49:30Z</updated>
+            <updated>2025-01-24T17:49:28Z</updated>
             <id>https://dnd.harrymiller.uk/npcs/hex/</id>
             <content type="html">
                 &lt;h1 id=&quot;hex&quot; tabindex=&quot;-1&quot;&gt;Hex&lt;/h1&gt;
@@ -592,7 +618,7 @@ They speak so passionately of technology and of harnessing ancient power unknown
                 Elaine
                 
             </title>
-            <updated>2025-01-24T17:49:30Z</updated>
+            <updated>2025-01-24T17:49:28Z</updated>
             <id>https://dnd.harrymiller.uk/npcs/elaine/</id>
             <content type="html">
                 &lt;h1 id=&quot;elaine&quot; tabindex=&quot;-1&quot;&gt;Elaine&lt;/h1&gt;
@@ -606,7 +632,7 @@ They speak so passionately of technology and of harnessing ancient power unknown
                 Dez
                 
             </title>
-            <updated>2025-01-24T17:49:30Z</updated>
+            <updated>2025-01-24T17:49:28Z</updated>
             <id>https://dnd.harrymiller.uk/npcs/dez/</id>
             <content type="html">
                 &lt;h1 id=&quot;dez&quot; tabindex=&quot;-1&quot;&gt;Dez&lt;/h1&gt;
@@ -620,7 +646,7 @@ They speak so passionately of technology and of harnessing ancient power unknown
                 Constance
                 
             </title>
-            <updated>2025-01-24T17:49:30Z</updated>
+            <updated>2025-01-24T17:49:28Z</updated>
             <id>https://dnd.harrymiller.uk/npcs/constance/</id>
             <content type="html">
                 &lt;h1 id=&quot;constance&quot; tabindex=&quot;-1&quot;&gt;Constance&lt;/h1&gt;
@@ -634,7 +660,7 @@ They speak so passionately of technology and of harnessing ancient power unknown
                 Cal
                 
             </title>
-            <updated>2025-01-24T17:49:30Z</updated>
+            <updated>2025-01-24T17:49:28Z</updated>
             <id>https://dnd.harrymiller.uk/npcs/cal/</id>
             <content type="html">
                 &lt;h1 id=&quot;cal&quot; tabindex=&quot;-1&quot;&gt;Cal&lt;/h1&gt;
@@ -648,7 +674,7 @@ They speak so passionately of technology and of harnessing ancient power unknown
                 Vinetta
                 
             </title>
-            <updated>2025-01-24T17:49:30Z</updated>
+            <updated>2025-01-24T17:49:28Z</updated>
             <id>https://dnd.harrymiller.uk/locations/vinetta/</id>
             <content type="html">
                 &lt;h1 id=&quot;vinetta&quot; tabindex=&quot;-1&quot;&gt;Vinetta&lt;/h1&gt;
@@ -662,7 +688,7 @@ They speak so passionately of technology and of harnessing ancient power unknown
                 Vasilius
                 
             </title>
-            <updated>2025-01-24T17:49:30Z</updated>
+            <updated>2025-01-24T17:49:28Z</updated>
             <id>https://dnd.harrymiller.uk/locations/vasilius/vasilius/</id>
             <content type="html">
                 &lt;h1 id=&quot;overview&quot; tabindex=&quot;-1&quot;&gt;Overview&lt;/h1&gt;
@@ -720,7 +746,7 @@ They speak so passionately of technology and of harnessing ancient power unknown
                 The Citadel
                 
             </title>
-            <updated>2025-01-24T17:49:30Z</updated>
+            <updated>2025-01-24T17:49:28Z</updated>
             <id>https://dnd.harrymiller.uk/locations/vasilius/rovnovaha/the-citadel/</id>
             <content type="html">
                 &lt;h1 id=&quot;the-citadel&quot; tabindex=&quot;-1&quot;&gt;The Citadel&lt;/h1&gt;
@@ -734,7 +760,7 @@ They speak so passionately of technology and of harnessing ancient power unknown
                 Rovnováha
                 
             </title>
-            <updated>2025-01-24T17:49:30Z</updated>
+            <updated>2025-01-24T17:49:28Z</updated>
             <id>https://dnd.harrymiller.uk/locations/vasilius/rovnovaha/rovnovaha/</id>
             <content type="html">
                 &lt;h1 id=&quot;rovnovaha&quot; tabindex=&quot;-1&quot;&gt;Rovnováha&lt;/h1&gt;
@@ -800,7 +826,7 @@ They speak so passionately of technology and of harnessing ancient power unknown
                 Stonehill Tavern
                 
             </title>
-            <updated>2025-01-24T17:49:30Z</updated>
+            <updated>2025-01-24T17:49:28Z</updated>
             <id>https://dnd.harrymiller.uk/locations/vasilius/elysia-vale/stonehill-tavern/</id>
             <content type="html">
                 &lt;h1 id=&quot;stonehill-tavern&quot; tabindex=&quot;-1&quot;&gt;Stonehill Tavern&lt;/h1&gt;
@@ -814,7 +840,7 @@ They speak so passionately of technology and of harnessing ancient power unknown
                 Elysia Vale
                 
             </title>
-            <updated>2025-01-24T17:49:30Z</updated>
+            <updated>2025-01-24T17:49:28Z</updated>
             <id>https://dnd.harrymiller.uk/locations/vasilius/elysia-vale/elysia-vale/</id>
             <content type="html">
                 &lt;h1 id=&quot;elysia-vale&quot; tabindex=&quot;-1&quot;&gt;Elysia Vale&lt;/h1&gt;
@@ -890,7 +916,7 @@ They speak so passionately of technology and of harnessing ancient power unknown
                 Brambledown
                 
             </title>
-            <updated>2025-01-24T17:49:30Z</updated>
+            <updated>2025-01-24T17:49:28Z</updated>
             <id>https://dnd.harrymiller.uk/locations/vasilius/brambledown/</id>
             <content type="html">
                 &lt;h1 id=&quot;overview&quot; tabindex=&quot;-1&quot;&gt;Overview&lt;/h1&gt;
@@ -925,7 +951,7 @@ They speak so passionately of technology and of harnessing ancient power unknown
                 Barleydeep
                 
             </title>
-            <updated>2025-01-24T17:49:30Z</updated>
+            <updated>2025-01-24T17:49:28Z</updated>
             <id>https://dnd.harrymiller.uk/locations/vasilius/barleydeep/</id>
             <content type="html">
                 &lt;h1 id=&quot;overview&quot; tabindex=&quot;-1&quot;&gt;Overview&lt;/h1&gt;
@@ -960,7 +986,7 @@ They speak so passionately of technology and of harnessing ancient power unknown
                 Tenebris
                 
             </title>
-            <updated>2025-01-24T17:49:30Z</updated>
+            <updated>2025-01-24T17:49:28Z</updated>
             <id>https://dnd.harrymiller.uk/locations/tenebris/tenebris/</id>
             <content type="html">
                 &lt;h1 id=&quot;overview&quot; tabindex=&quot;-1&quot;&gt;Overview&lt;/h1&gt;
@@ -996,7 +1022,7 @@ They speak so passionately of technology and of harnessing ancient power unknown
                 Taldin
                 
             </title>
-            <updated>2025-01-24T17:49:30Z</updated>
+            <updated>2025-01-24T17:49:28Z</updated>
             <id>https://dnd.harrymiller.uk/locations/taldin/taldin/</id>
             <content type="html">
                 &lt;h1 id=&quot;overview&quot; tabindex=&quot;-1&quot;&gt;Overview&lt;/h1&gt;
@@ -1032,7 +1058,7 @@ They speak so passionately of technology and of harnessing ancient power unknown
                 Slassic
                 
             </title>
-            <updated>2025-01-24T17:49:30Z</updated>
+            <updated>2025-01-24T17:49:28Z</updated>
             <id>https://dnd.harrymiller.uk/locations/slassic/slassic/</id>
             <content type="html">
                 &lt;h1 id=&quot;overview&quot; tabindex=&quot;-1&quot;&gt;Overview&lt;/h1&gt;
@@ -1068,7 +1094,7 @@ They speak so passionately of technology and of harnessing ancient power unknown
                 Sahar
                 
             </title>
-            <updated>2025-01-24T17:49:30Z</updated>
+            <updated>2025-01-24T17:49:28Z</updated>
             <id>https://dnd.harrymiller.uk/locations/sahar/sahar/</id>
             <content type="html">
                 &lt;h1 id=&quot;overview&quot; tabindex=&quot;-1&quot;&gt;Overview&lt;/h1&gt;
@@ -1104,7 +1130,7 @@ They speak so passionately of technology and of harnessing ancient power unknown
                 Magus
                 
             </title>
-            <updated>2025-01-24T17:49:30Z</updated>
+            <updated>2025-01-24T17:49:28Z</updated>
             <id>https://dnd.harrymiller.uk/locations/magus/magus/</id>
             <content type="html">
                 &lt;h1 id=&quot;overview&quot; tabindex=&quot;-1&quot;&gt;Overview&lt;/h1&gt;
@@ -1140,7 +1166,7 @@ They speak so passionately of technology and of harnessing ancient power unknown
                 Dervan
                 
             </title>
-            <updated>2025-01-24T17:49:30Z</updated>
+            <updated>2025-01-24T17:49:28Z</updated>
             <id>https://dnd.harrymiller.uk/locations/dervan/dervan/</id>
             <content type="html">
                 &lt;h1 id=&quot;overview&quot; tabindex=&quot;-1&quot;&gt;Overview&lt;/h1&gt;
@@ -1175,7 +1201,7 @@ They speak so passionately of technology and of harnessing ancient power unknown
                 300 PC - The Beginning
                 
             </title>
-            <updated>2025-01-24T17:49:30Z</updated>
+            <updated>2025-01-24T17:49:28Z</updated>
             <id>https://dnd.harrymiller.uk/history/300-pc-the-beginning/</id>
             <content type="html">
                 &lt;h1 id=&quot;300-pc-the-beginning&quot; tabindex=&quot;-1&quot;&gt;300 PC - The Beginning&lt;/h1&gt;
@@ -1189,7 +1215,7 @@ They speak so passionately of technology and of harnessing ancient power unknown
                 010 PC - 290 years ago
                 
             </title>
-            <updated>2025-01-24T17:49:30Z</updated>
+            <updated>2025-01-24T17:49:28Z</updated>
             <id>https://dnd.harrymiller.uk/history/010-pc-290-years-ago/</id>
             <content type="html">
                 &lt;h1 id=&quot;010-pc-290-years-ago&quot; tabindex=&quot;-1&quot;&gt;010 PC - 290 years ago&lt;/h1&gt;
@@ -1203,7 +1229,7 @@ They speak so passionately of technology and of harnessing ancient power unknown
                 0 - The Collapse
                 
             </title>
-            <updated>2025-01-24T17:49:30Z</updated>
+            <updated>2025-01-24T17:49:28Z</updated>
             <id>https://dnd.harrymiller.uk/history/0-the-collapse/</id>
             <content type="html">
                 &lt;h1 id=&quot;0-the-collapse&quot; tabindex=&quot;-1&quot;&gt;0 - The Collapse&lt;/h1&gt;
@@ -1217,7 +1243,7 @@ They speak so passionately of technology and of harnessing ancient power unknown
                 Eeshan
                 
             </title>
-            <updated>2025-01-24T17:49:30Z</updated>
+            <updated>2025-01-24T17:49:28Z</updated>
             <id>https://dnd.harrymiller.uk/cultures/eeshan/</id>
             <content type="html">
                 &lt;h1 id=&quot;eeshan&quot; tabindex=&quot;-1&quot;&gt;Eeshan&lt;/h1&gt;
@@ -1231,7 +1257,7 @@ They speak so passionately of technology and of harnessing ancient power unknown
                 Osbyn
                 
             </title>
-            <updated>2025-01-24T17:49:30Z</updated>
+            <updated>2025-01-24T17:49:28Z</updated>
             <id>https://dnd.harrymiller.uk/characters/osbyn/</id>
             <content type="html">
                 
@@ -1243,7 +1269,7 @@ They speak so passionately of technology and of harnessing ancient power unknown
                 Montana
                 
             </title>
-            <updated>2025-01-24T17:49:30Z</updated>
+            <updated>2025-01-24T17:49:28Z</updated>
             <id>https://dnd.harrymiller.uk/characters/montana/</id>
             <content type="html">
                 &lt;ul&gt;
@@ -1269,7 +1295,7 @@ I want to follow in my grandfathers footsteps and establish my own path&lt;/p&gt
                 Dorwen
                 
             </title>
-            <updated>2025-01-24T17:49:30Z</updated>
+            <updated>2025-01-24T17:49:28Z</updated>
             <id>https://dnd.harrymiller.uk/characters/dorwen/</id>
             <content type="html">
                 
@@ -1281,7 +1307,7 @@ I want to follow in my grandfathers footsteps and establish my own path&lt;/p&gt
                 Benbo
                 
             </title>
-            <updated>2025-01-24T17:49:30Z</updated>
+            <updated>2025-01-24T17:49:28Z</updated>
             <id>https://dnd.harrymiller.uk/characters/benbo/</id>
             <content type="html">
                 
@@ -1293,7 +1319,7 @@ I want to follow in my grandfathers footsteps and establish my own path&lt;/p&gt
                 Amoss
                 
             </title>
-            <updated>2025-01-24T17:49:30Z</updated>
+            <updated>2025-01-24T17:49:28Z</updated>
             <id>https://dnd.harrymiller.uk/characters/amoss/</id>
             <content type="html">
                 
@@ -1305,7 +1331,7 @@ I want to follow in my grandfathers footsteps and establish my own path&lt;/p&gt
                 Session 001 - Trouble at Temple Ruins
                 
             </title>
-            <updated>2025-01-24T17:49:30Z</updated>
+            <updated>2025-01-24T17:49:28Z</updated>
             <id>https://dnd.harrymiller.uk/sessions/session-001-trouble-at-temple-ruins/</id>
             <content type="html">
                 &lt;h1 id=&quot;summary&quot; tabindex=&quot;-1&quot;&gt;Summary&lt;/h1&gt;
