@@ -11,7 +11,7 @@
                     <div class="foldername-wrapper align-icon">
                     <i x-show="isOpen" style="display: none;"  icon-name="chevron-down"></i>
                     <i x-show="!isOpen"  icon-name="chevron-right"></i>
-                    {% for fileOrFolderName, child in fileOrFolder %}
+                    {% for fileName, child in fileOrFolder %}
                         {%if child.isNote and child.name == fileOrFolderName%}
                             <span class="foldername"><a style="text-decoration: none;" class="filename" href="{{child.permalink}}">{{fileOrFolderName}}</a></span>
                         {% else %}
