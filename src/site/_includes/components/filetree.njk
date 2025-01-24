@@ -21,7 +21,7 @@
                         <span class="foldername"><a style="text-decoration: none;" class="filename" href="{{permalink}}">{{fileOrFolderName}}</a></span>
                     {% else %}
                         <span class="foldername">{{fileOrFolderName}}</span>
-                    {% endfor %}
+                    {% endif %}
                     </div>
                     {% for fileOrFolderName, child in fileOrFolder %}
                         {{menuItem(fileOrFolderName, child, step+1, (currentPath+"/"+fileOrFolderName))}}
