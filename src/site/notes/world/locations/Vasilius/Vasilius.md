@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"locations/Vasilius/Vasilius.md","permalink":"/locations/vasilius/vasilius/","tags":["location"],"noteIcon":"location"}
+{"dg-publish":true,"dg-path":"locations/Vasilius/Vasilius.md","dg-permalink":"world/locations/Vasilius/","permalink":"/world/locations/Vasilius/","tags":["location"],"noteIcon":"location"}
 ---
 
 # Overview
