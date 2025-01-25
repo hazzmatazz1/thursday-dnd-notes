@@ -2,6 +2,9 @@
 {"dg-publish":true,"dg-path":"characters/Montana.md","permalink":"/characters/montana/","tags":["person","pc"],"noteIcon":"character"}
 ---
 
+# Montana
+`=this.description`
+
 - Born in [[world/locations/Vasilius/Elysia Vale/Elysia Vale\|Elysia Vale]]
 - Second child
 - Lives at the xyz Forge/Smith

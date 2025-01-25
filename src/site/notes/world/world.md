@@ -18,7 +18,7 @@ image: [[World Map.jpg]]
 | [[world/locations/Taldin/Taldin\|Taldin]]       | continent | A barren wasteland, home to the sprawling dwarven kingdoms in the mines below.                                                             |
 | [[world/locations/Dervan/Dervan\|Dervan]]       | continent | A large expanse of dense forest, with a single settlement. Most of the residents here are elves or nature lovers.                          |
 | [[world/locations/Sahar/Sahar\|Sahar]]          | continent | The desert kingdom, filled with nomadic people, fine craftsmen and mysterious traders.                                                     |
-| [[world/locations/Tenebris/Tenebris\|Tenebris]] | continent | Known as the dead lands, thought to be where the Eeshan once lived before whatever catastrophe killed them.                                |
+| [[world/locations/Tenebris/Tenebris\|Tenebris]] | continent | Known as the dead lands, thought to be where the [[world/cultures/Eeshan\|Eeshan]] once lived before whatever catastrophe killed them.                            |
 | [[world/locations/Slassic/Slassic\|Slassic]]    | continent | A frozen tundra, filled with many scattered tribes. There is a strong distrust of magic here.                                              |
 | [[world/locations/Vasilius/Vasilius\|Vasilius]] | continent | The Empire of Vasilius, this is where the portal came during the Divine War. It is the most populated area, united under a single emperor. |
 

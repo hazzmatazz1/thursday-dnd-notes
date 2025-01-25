@@ -2,8 +2,9 @@
 {"dg-publish":true,"dg-path":"locations/Vasilius/Vasilius.md","dg-permalink":"locations/vasilius/","permalink":"/locations/vasilius/","pinned":true,"tags":["location"],"noteIcon":"location"}
 ---
 
-# Overview
+# Vasilius
 The Empire of Vasilius, this is where the portal came during the Divine War. It is the most populated area, united under a single emperor.
+# Overview
 
 # NPCs
 | Name | Species | Gender | Alive | Description |

@@ -2,6 +2,8 @@
 {"dg-publish":true,"dg-path":"locations/Vasilius/Barleydeep.md","permalink":"/locations/vasilius/barleydeep/","tags":["location"],"noteIcon":"location"}
 ---
 
+# Barleydeep
+`=this.description`
 # Overview
 
 

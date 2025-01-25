@@ -3,4 +3,4 @@
 ---
 
 # Stonehill Tavern
-`=this.description`
+A cozy haven with timber-framed walls, a well-worn wooden floor, flickering candlelight, and a quest board eagerly awaiting new postings.

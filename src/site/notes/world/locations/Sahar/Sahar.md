@@ -2,8 +2,9 @@
 {"dg-publish":true,"dg-path":"locations/Sahar/Sahar.md","permalink":"/locations/sahar/sahar/","tags":["location"],"noteIcon":"location"}
 ---
 
-# Overview
+# Sahar
 The desert kingdom, filled with nomadic people, fine craftsmen and mysterious traders.
+# Overview
 
 # NPCs
 | Name | Species | Gender | Alive | Description |

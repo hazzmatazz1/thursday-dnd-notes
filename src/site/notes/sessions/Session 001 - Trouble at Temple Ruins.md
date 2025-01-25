@@ -2,11 +2,26 @@
 {"dg-publish":true,"permalink":"/sessions/session-001-trouble-at-temple-ruins/","hideInGraph":true,"tags":["session"],"noteIcon":"session"}
 ---
 
+# Session 001 - Trouble at Temple Ruins
+Played on: 2025-01-23T00:00:00.000+00:00
 # Summary
+In the [[world/locations/Vasilius/Elysia Vale/Stonehill Tavern\|Stonehill Tavern]] of [[world/locations/Vasilius/Elysia Vale/Elysia Vale\|Elysia Vale]], our adventure kicked off with a notice seeking help for a temple discovery in the mines. I introduced myself to fellow adventurers [[world/characters/Benbo\|Benbo]], [[world/characters/Dorwen\|Dorwen]], [[world/characters/Osbyn\|Osbyn]], and [[world/characters/Amoss\|Amoss]], and after some bonding over drinks, we set off south towards the mines. En route, we discovered an abandoned wagon with blood and goblin tracks. Despite [[world/characters/Amoss\|Amoss]]'s concerns, we decided to follow the tracks, leading to a skirmish with goblins. We emerged victorious but not unscathed, finding among the goblins' spoils the bodies of a horse and a young woman from town. We laid the woman's body in the wagon before continuing our journey. As night fell, [[world/characters/Benbo\|Benbo]] and [[world/characters/Dorwen\|Dorwen]] took watch, giving me a chance to sleep.
 
 # NPCs
+| Name                                 | Species | Gender | Description                                                                                                            |
+| ------------------------------------ | ------- | ------ | ---------------------------------------------------------------------------------------------------------------------- |
+| [[world/npcs/Theodore\|Theodore]] | Human   | Male   | A meticulous barkeep with dark hair and eyes, often found scrubbing down his tavern with a stern yet caring demeanour. |
 
+{ .block-language-dataview}
 # Locations
+| Name                                                                           | Description                                                                                                                                                                                                                                               |
+| ------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [[world/locations/Vasilius/Elysia Vale/Elysia Vale\|Elysia Vale]]           | A vibrant town nestled around a large oasis, with vividly painted buildings adorned with intricate flower carvings, cobbled streets draped in colorful garments, and the air filled with the scents of fresh herbs and baked goods from bustling markets. |
+| [[world/locations/Vasilius/Elysia Vale/Stonehill Tavern\|Stonehill Tavern]] | A cozy haven with timber-framed walls, a well-worn wooden floor, flickering candlelight, and a quest board eagerly awaiting new postings.                                                                                                                 |
+| [[world/locations/Vasilius/Barleydeep\|Barleydeep]]                         | \-                                                                                                                                                                                                                                                        |
+| [[world/locations/Vasilius/Brambledown\|Brambledown]]                       | \-                                                                                                                                                                                                                                                        |
+
+{ .block-language-dataview}
 
 # Notes
 - We begin in the [[world/locations/Vasilius/Elysia Vale/Stonehill Tavern\|Stonehill Tavern]] in [[world/locations/Vasilius/Elysia Vale/Elysia Vale\|Elysia Vale]]. In the tavern there is a notice asking for help in the mines as they have found the remains of an [[world/cultures/Eeshan\|Eeshan]] temple. This is [[world/quests/Trouble at Temple Ruins\|Trouble at Temple Ruins]].

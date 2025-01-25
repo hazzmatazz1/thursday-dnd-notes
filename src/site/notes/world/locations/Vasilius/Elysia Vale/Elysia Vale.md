@@ -20,8 +20,7 @@ The buildings of the vale are vividly painted, carefully decorated with intricat
 { .block-language-dataview}
 
 # Locations
-| Name                                                                           | Type   | Description |
-| ------------------------------------------------------------------------------ | ------ | ----------- |
-| [[world/locations/Vasilius/Elysia Vale/Stonehill Tavern\|Stonehill Tavern]] | tavern | \-          |
+| Name | Type | Description |
+| ---- | ---- | ----------- |
 
 { .block-language-dataview}
