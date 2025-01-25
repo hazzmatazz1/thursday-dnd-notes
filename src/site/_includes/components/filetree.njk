@@ -11,14 +11,14 @@
                     <div class="foldername-wrapper align-icon">
                     <i x-show="isOpen" style="display: none;"  icon-name="chevron-down"></i>
                     <i x-show="!isOpen"  icon-name="chevron-right"></i>
-                    {% set child = "None" %}
+                    {% set folder_note = "None" %}
                     {% for fileName, child in fileOrFolder %}
                         {%if child.isNote and child.name == fileOrFolderName%}
-                            {% set child = child %}
+                            {% set folder_note = child %}
                         {% endif %}
                     {% endfor %}
-                    {% if child != "None" %}
-                        <span class="foldername"><a data-note-icon="{{child.noteIcon}}" style="text-decoration: none;" class="filename" href="{{child.permalink}}">{{fileOrFolderName}}</a></span>
+                    {% if folder_note != "None" %}
+                        <span class="foldername"><a data-note-icon="{{folder_note.noteIcon}}" style="text-decoration: none;" class="filename" href="{{folder_note.permalink}}">{{fileOrFolderName}}</a></span>
                     {% else %}
                         <span class="foldername">{{fileOrFolderName}}</span>
                     {% endif %}
