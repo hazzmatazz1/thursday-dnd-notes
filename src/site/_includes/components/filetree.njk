@@ -23,10 +23,10 @@
                         <span class="foldername">{{fileOrFolderName}}</span>
                     {% endif %}
                     </div>
-                    {% for fileOrFolderName, child in fileOrFolder %}
+                    {% for fileName, child in fileOrFolder %}
                         {%if child.isNote and child.name == fileOrFolderName%}
                         {% else %}
-                            {{menuItem(fileOrFolderName, child, step+1, (currentPath+"/"+fileOrFolderName))}}
+                            {{menuItem(fileName, child, step+1, (currentPath+"/"+fileName))}}
                         {% endif %}
                     {% endfor %}
                 </div>
