@@ -11,20 +11,23 @@
                     <div class="foldername-wrapper align-icon">
                     <i x-show="isOpen" style="display: none;"  icon-name="chevron-down"></i>
                     <i x-show="!isOpen"  icon-name="chevron-right"></i>
-                    {% set permalink = "None" %}
+                    {% set child = "None" %}
                     {% for fileName, child in fileOrFolder %}
                         {%if child.isNote and child.name == fileOrFolderName%}
-                            {% set permalink = child.permalink %}
+                            {% set child = child %}
                         {% endif %}
                     {% endfor %}
-                    {% if permalink != "None" %}
-                        <span class="foldername"><a style="text-decoration: none;" class="filename" href="{{permalink}}">{{fileOrFolderName}}</a></span>
+                    {% if child != "None" %}
+                        <span class="foldername"><a data-note-icon="{{child.noteIcon}}" style="text-decoration: none;" class="filename" href="{{child.permalink}}">{{fileOrFolderName}}</a></span>
                     {% else %}
                         <span class="foldername">{{fileOrFolderName}}</span>
                     {% endif %}
                     </div>
                     {% for fileOrFolderName, child in fileOrFolder %}
-                        {{menuItem(fileOrFolderName, child, step+1, (currentPath+"/"+fileOrFolderName))}}
+                        {%if child.isNote and child.name == fileOrFolderName%}
+                        {% else %}
+                            {{menuItem(fileOrFolderName, child, step+1, (currentPath+"/"+fileOrFolderName))}}
+                        {% endif %}
                     {% endfor %}
                 </div>
             {% endif %}
